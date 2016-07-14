@@ -63,17 +63,17 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rashmita Jadav"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Architect by profession, nomad by nature..!"
+  location         : "Ahmedabad"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/rashmita.jadav
   foursquare       :
   github           :
   google_plus      :
